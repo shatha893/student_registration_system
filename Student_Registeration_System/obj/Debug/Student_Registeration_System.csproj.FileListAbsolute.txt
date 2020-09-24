@@ -1,0 +1,16 @@
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\bin\Debug\Student_Registeration_System.exe.config
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\bin\Debug\Student_Registeration_System.exe
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\bin\Debug\Student_Registeration_System.pdb
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\bin\Debug\System.Data.SQLite.xml
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.csprojAssemblyReference.cache
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.DropAdd.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.Container.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.Home.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.Login.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.Properties.Resources.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.StudentProfile.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.StudyPlan.resources
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.csproj.GenerateResource.cache
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.csproj.CopyComplete
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.exe
+C:\Users\shado\OneDrive\Desktop\MyDocs\Visual Programming (C#)\VS Windows Forms\Student_Registeration_System\Student_Registeration_System\obj\Debug\Student_Registeration_System.pdb
